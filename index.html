@@ -40,19 +40,20 @@ permalink: /
         </div>
 
         <div class="col-lg-4">
-            <h3>EVENTS</h3>
+            <h3>UPCOMING EVENTS</h3>
             <div class="hline"></div>
-            {% for post in site.categories['question'] %}
-                <p><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></p>
+            {% for post in site.categories['question'] limit:3 %}
+                <p><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></br>
+                <csmall>{{ post.date | date: "%b %-d, %Y" }}. | Location: {{ post.location }}</csmall></p>
             {% endfor %}
         </div>
 
         <div class="col-lg-4">
             <h3>BLOG</h3>
             <div class="hline"></div>
-            {% for post in site.categories['blog'] limit:2 %}
-                <p><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}.</a></p>
-                <p><csmall>{{ post.date | date: "%b %-d, %Y" }}. | By: {{ post.author }}</csmall></p>
+            {% for post in site.categories['blog'] limit:3 %}
+                <p><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}.</a></br>
+                <csmall>{{ post.date | date: "%b %-d, %Y" }}. | By: {{ post.author }}</csmall></p>
             {% endfor %}
         </div>
 

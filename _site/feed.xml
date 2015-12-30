@@ -5,9 +5,22 @@
     <description>GovWizely helps government agencies build applications with their data. We bring modern technologies to government projects and work with our clientele to fight bureaucratic roadblocks.</description>
     <link>/</link>
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Mon, 28 Dec 2015 18:47:15 -0500</pubDate>
-    <lastBuildDate>Mon, 28 Dec 2015 18:47:15 -0500</lastBuildDate>
+    <pubDate>Wed, 30 Dec 2015 15:55:09 -0500</pubDate>
+    <lastBuildDate>Wed, 30 Dec 2015 15:55:09 -0500</lastBuildDate>
     <generator>Jekyll v3.0.1</generator>
+    
+      <item>
+        <title>Question: ITA Meetup 2</title>
+        <description>&lt;p&gt;To get to the other side.&lt;/p&gt;
+</description>
+        <pubDate>Wed, 30 Dec 2015 11:54:46 -0500</pubDate>
+        <link>/question/your-project-name</link>
+        <guid isPermaLink="true">/question/your-project-name</guid>
+        
+        
+        <category>question</category>
+        
+      </item>
     
       <item>
         <title>Blog: Erik Arnold gets a new phone number</title>
@@ -155,19 +168,6 @@ It was popularised in the 1960s with the release of Letraset sheets containing L
         
         
         <category>project</category>
-        
-      </item>
-    
-      <item>
-        <title>Question: ITA Meet-up</title>
-        <description>&lt;p&gt;To get to the other side.&lt;/p&gt;
-</description>
-        <pubDate>Fri, 25 Apr 2014 12:54:46 -0400</pubDate>
-        <link>/question/your-project-name</link>
-        <guid isPermaLink="true">/question/your-project-name</guid>
-        
-        
-        <category>question</category>
         
       </item>
     
