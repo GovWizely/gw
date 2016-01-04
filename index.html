@@ -30,19 +30,18 @@ permalink: /
     </div><! --/container -->
 </div><! --/service -->
 
-{% include portfolio.html title="LATEST PROJECTS" limit=5 %}
+{% include portfolio.html title="Latest Projects" limit=5 %}
 
 <div class="container mtb">
     <div class="row">
 
         <div class="col-lg-4">
-            <h3>TWITTER</h3>
-            <p>create twitter account</p>
-            <p>embed widget here</p>
+        <h3 class="home">Twitter</h3>
+            <a class="twitter-timeline" href="https://twitter.com/GovWizely" data-widget-id="684062145521258496" data-chrome="noheader transparent noborders nofooter">Tweets by @GovWizely</a> <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
         </div>
 
         <div class="col-lg-4">
-            <h3>UPCOMING EVENTS</h3>
+            <h3 class="home">Upcoming Events</h3>
             <div class="hline"></div>
             {% for post in site.categories['question'] limit:3 %}
                 <p>{{ post.date | date: "%b %-d, %Y" }}: <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></br>
@@ -51,7 +50,7 @@ permalink: /
         </div>
 
         <div class="col-lg-4">
-            <h3>BLOG</h3>
+            <h3 class="home">Blog</h3>
             <div class="hline"></div>
             {% for post in site.categories['blog'] limit:3 %}
                 <p><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></br>
