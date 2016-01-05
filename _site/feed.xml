@@ -5,8 +5,8 @@
     <description>GovWizely helps government agencies build applications with their data. We bring modern technologies to government projects and work with our clientele to fight bureaucratic roadblocks.</description>
     <link>/</link>
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Tue, 05 Jan 2016 13:50:30 -0500</pubDate>
-    <lastBuildDate>Tue, 05 Jan 2016 13:50:30 -0500</lastBuildDate>
+    <pubDate>Tue, 05 Jan 2016 14:56:28 -0500</pubDate>
+    <lastBuildDate>Tue, 05 Jan 2016 14:56:28 -0500</lastBuildDate>
     <generator>Jekyll v3.0.1</generator>
     
       <item>
@@ -134,11 +134,11 @@
       </item>
     
       <item>
-        <title>Project: ITA Webservices</title>
-        <description>&lt;h4 id=&quot;webservices&quot;&gt;Webservices…&lt;/h4&gt;
+        <title>Project: ITA Data Services</title>
+        <description>&lt;h4 id=&quot;data-services&quot;&gt;Data Services…&lt;/h4&gt;
 &lt;p&gt;Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry’s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.&lt;/p&gt;
 
-&lt;h4 id=&quot;our-proposal&quot;&gt;Our Proposal&lt;/h4&gt;
+&lt;h4 id=&quot;apis&quot;&gt;APIs…&lt;/h4&gt;
 &lt;p&gt;It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.&lt;/p&gt;
 </description>
         <pubDate>Sun, 20 Dec 2015 00:00:00 -0500</pubDate>
