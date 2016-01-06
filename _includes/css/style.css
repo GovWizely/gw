@@ -45,8 +45,8 @@ p {
 	margin-bottom: 12px;
 	font-family: 'Open Sans', sans-serif;
 	font-weight: 400;
-	font-size: 16px;
-	line-height: 27px;
+	font-size: 15px;
+	line-height: 23px;
 	color: #333;
 	margin-top: 10px;
 }
@@ -328,7 +328,7 @@ margin: 0px auto 15px;
 	height:100%;
 	width:100%;
 	background-color:{{ site.colors.primary }};
-	background-color:rgba({{ site.colors.primary_rgb }},.9);
+	background-color:rgba({{ site.colors.primary_rgb }},.5);
 	text-align:center;
 }
 
@@ -427,7 +427,7 @@ margin: 0px auto 15px;
 /* General Tweaks */
 
 #blue {
-	background: {{ site.colors.primary }};
+	background: {{ site.colors.link }};
 	margin-top: 0;
 	margin-bottom: 0;
 	padding-top: 10px;
