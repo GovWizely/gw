@@ -13,11 +13,11 @@ permalink: /:categories/:title
 excerpt_separator: <!--more--> #use this in posts to define how long the excerpt of the post (that is shown on the Blog page) is
 
 colors:  #in hex code if not noted else
-  primary: "#1d7296" #"#F70031"
+  primary: "#2b8275" #"#F70031"
   primary_rgb: "0,179,254" #"247,0,49" #rgb of the primary. Needed in some places for the transparency effect.
-  secondary: "#FFFFF" #"#33004D"
-  link: "#428bca"
-  link_hover: "#01b2fe"
+  secondary: "#FFFFF"
+  link: "#1d7296"
+  link_hover: "#2182ab"
   footer_heading: "#384452"
   footer_content: "#384452"
 
@@ -37,8 +37,8 @@ address:
   - lines:
     - GovWizely, LLC
     - 10523-A Braddock Road
-    - Fairfax VA 22032
-    - United States.
+    - Fairfax, VA 22032
+    - United States
 email: info@govwizely.com
 tel: 703.995.9913
 

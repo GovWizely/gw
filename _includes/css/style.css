@@ -45,7 +45,7 @@ p {
 	margin-bottom: 12px;
 	font-family: 'Open Sans', sans-serif;
 	font-weight: 400;
-	font-size: 14px;
+	font-size: 16px;
 	line-height: 27px;
 	color: #333;
 	margin-top: 10px;
@@ -98,7 +98,8 @@ font-size:20px;
 }
 
 .home {
-font-size:28px;
+font-size:32px;
+font-weight:400;
 color:#2b8275;
 }
 
@@ -177,8 +178,8 @@ margin: 0px auto 15px;
 
 .btn-theme {
   color: #fff;
-  background-color: #29a2d6;
-  border-color: #29a2d6;
+  background-color: #1d7296;
+  border-color: #1d7296;
   margin: 4px;
 }
 .btn-theme:hover,
@@ -187,8 +188,8 @@ margin: 0px auto 15px;
 .btn-theme.active,
 .open .dropdown-toggle.btn-theme {
   color: #fff;
-  background-color: {{ site.colors.primary }};
-  border-color: {{ site.colors.primary }};
+  background-color: #2182ab;
+  border-color: #2182ab;
 }
 
 .dmbutton:hover,
@@ -226,7 +227,7 @@ margin: 0px auto 15px;
 
 .mtb {
 	margin-top: 80px;
-	margin-bottom: 80px;
+	margin-bottom: 30px;
 }
 
 .mb {
