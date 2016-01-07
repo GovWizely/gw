@@ -6,7 +6,6 @@ description: "GovWizely helps government agencies build applications with their 
 analytics: #Google analytics code in the format XX-nnnnnnnn-n
 baseurl: "/gw"
 url: ""
-
 # Build settings
 markdown: kramdown
 permalink: /:categories/:title

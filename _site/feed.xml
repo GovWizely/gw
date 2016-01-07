@@ -5,8 +5,8 @@
     <description>GovWizely helps government agencies build applications with their data. We bring modern technologies to government projects and work with our clientele to fight bureaucratic roadblocks.</description>
     <link>/</link>
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Wed, 06 Jan 2016 13:59:37 -0500</pubDate>
-    <lastBuildDate>Wed, 06 Jan 2016 13:59:37 -0500</lastBuildDate>
+    <pubDate>Thu, 07 Jan 2016 09:34:43 -0500</pubDate>
+    <lastBuildDate>Thu, 07 Jan 2016 09:34:43 -0500</lastBuildDate>
     <generator>Jekyll v3.0.1</generator>
     
       <item>
@@ -56,6 +56,7 @@
       <item>
         <title>Question: ITA Data Offsite</title>
         <description>&lt;p&gt;Review all archived data and keep what is necessary.&lt;/p&gt;
+
 </description>
         <pubDate>Wed, 30 Dec 2015 11:54:46 -0500</pubDate>
         <link>/question/your-project-name</link>
