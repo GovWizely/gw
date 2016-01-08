@@ -180,6 +180,22 @@ margin: 0px auto 15px;
 	font-size: 12px;
 }
 
+.btn-theme-home {
+  color: #1d7296;
+  background-color: #fff;
+  border-color: #1d7296;
+  margin: 4px;
+}
+.btn-theme-home:hover,
+.btn-theme-home:focus,
+.btn-theme-home:active,
+.btn-theme-home.active,
+.open .dropdown-toggle.btn-theme {
+  color: #fff;
+  background-color: #2182ab;
+  border-color: #2182ab;
+}
+
 .btn-theme {
   color: #fff;
   background-color: #1d7296;
@@ -348,14 +364,13 @@ margin: 0px auto 15px;
 }
 
 #twrap {
-    background: url(../img/t-back.jpg) no-repeat center top;
     position: relative;
     margin-top: 0px;
 	padding-top:60px;
 	text-align:center;
 	background-attachment: relative;
 	background-position: center center;
-	min-height: 450px;
+	min-height: 400px;
 	width: 100%;
 
     -webkit-background-size: 100%;
@@ -379,6 +394,13 @@ margin: 0px auto 15px;
 	color: white;
 	font-size: 15px;
 	line-height: 30px;
+}
+
+#zwrap {
+	background: #f7f7f7;
+	margin-top: 0px;
+	padding-top: 40px;
+	padding-bottom: 40px;
 }
 
 /* clients logo */

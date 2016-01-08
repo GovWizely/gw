@@ -29,6 +29,8 @@ social:
     url: https://www.linkedin.com/company/govwizely
   - title: twitter
     url: https://twitter.com/GovWizely
+  - title: github
+    url: https://github.com/govwizely/
 
 
 # Postal address (add as many lines as necessary). Shown in footer and on Contact page.
@@ -48,39 +50,38 @@ members:
   - name: Erik Arnold
     position: CEO
     text: Lorem Ipsum is simply dummy text of the printing and typesetting industry.
-    img: team02.jpg
+    img: erik.jpeg
     social:
       - title: envelope #use for email address
         url: mailto:erik@govwizely.com
-      - title: twitter
-        url: http://twitter.com/handle
+  - name: David Pranata
+    position: Title
+    text: Lorem Ipsum is simply dummy text of the printing and typesetting industry.
+    img: david.png
+    social:
+      - title: envelope #use for email address
+        url: mailto:david@eigenpath.com
   - name: James Issacs
     position: Title
     text: Lorem Ipsum is simply dummy text of the printing and typesetting industry.
-    img: team03.jpg
+    img: james.jpeg
     social:
       - title: envelope #use for email address
-        url: mailto:name@domain.com
-      - title: twitter
-        url: http://twitter.com/handle
+        url: mailto:james@govwizely.com
   - name: Tim Hammer
     position: Title
     text: Lorem Ipsum is simply dummy text of the printing and typesetting industry.
-    img: team01.jpg
+    img: tim.png
     social:
       - title: envelope #use for email address
-        url: mailto:name@domain.com
-      - title: twitter
-        url: http://twitter.com/handle
+        url: mailto:tim@govwizely.com
   - name: AJ Singh
     position: Title
     text: Lorem Ipsum is simply dummy text of the printing and typesetting industry.
-    img: team04.jpg
+    img: aj.png
     social:
       - title: envelope #use for email address
-        url: mailto:name@domain.com
-      - title: twitter
-        url: http://twitter.com/handle
+        url: mailto:aj@govwizely.com
 
 # Clients information. Shown on Home and About pages.
 clients:
@@ -98,6 +99,5 @@ about: "GovWizely helps government agencies build applications with their data. 
 
 # Testimonial content. Shown on Home and About page.
 testimonial:
-    message: "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged."
-    author: Stuart Ridgway
-    position: UX Lead - company
+    message: "GovWizely helps government agencies build applications with their data. We bring modern technologies to government projects and work with our clientele to fight bureaucratic roadblocks. Plus, we love big data, and the government, if anything, has a lot of data. The founders have all worked in Silicon Valley for years, but have since retreated back to the East Coast to try to turn a battleship."
+    title: Who We Are
