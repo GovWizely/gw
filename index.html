@@ -44,7 +44,7 @@ permalink: /
         </div>
 
         <div class="col-lg-4">
-            <h3 class="home">Upcoming Events</h3>
+            <h3 class="home">Events</h3>
             <div class="hline"></div>
             {% for post in site.categories['question'] limit:4 %}
                 <p>{{ post.date | date: "%b %-d, %Y" }}: <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></br>
@@ -54,7 +54,7 @@ permalink: /
         </div>
 
         <div class="col-lg-4">
-            <h3 class="home">Latest News</h3>
+            <h3 class="home">Blog</h3>
             <div class="hline"></div>
             {% for post in site.categories['blog'] limit:4 %}
                 <p><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></br>

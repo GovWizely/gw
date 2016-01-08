@@ -1,10 +1,11 @@
 ---
 layout: event
-title: "New Event"
-date: 2016-01-10 16:54:46
-location: Department of Commerce, Washington D.C.
+title: "Elastic{ON}16: The Elasticsearch User Conference"
+date: 2016-02-17 16:54:46
+location: San Francisco, CA
 categories:
+- conference
 - question
 ---
 
-Lorem...
+https://www.elastic.co/elasticon/conf/2016/sf
