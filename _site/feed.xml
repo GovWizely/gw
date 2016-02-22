@@ -3,19 +3,34 @@
   <channel>
     <title>GovWizely</title>
     <description>GovWizely helps government agencies build applications with their data. We bring modern technologies to government projects and work with our clientele to fight bureaucratic roadblocks.</description>
-    <link>/</link>
-    <atom:link href="/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Fri, 08 Jan 2016 16:14:35 -0500</pubDate>
-    <lastBuildDate>Fri, 08 Jan 2016 16:14:35 -0500</lastBuildDate>
-    <generator>Jekyll v3.0.1</generator>
+    <link>/gw/</link>
+    <atom:link href="/gw/feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Sun, 21 Feb 2016 19:37:24 -0500</pubDate>
+    <lastBuildDate>Sun, 21 Feb 2016 19:37:24 -0500</lastBuildDate>
+    <generator>Jekyll v3.1.2</generator>
+    
+      <item>
+        <title>Conference: Elastic{ON}16: The Elasticsearch User Conference</title>
+        <description>&lt;p&gt;https://www.elastic.co/elasticon/conf/2016/sf&lt;/p&gt;
+</description>
+        <pubDate>Wed, 17 Feb 2016 11:54:46 -0500</pubDate>
+        <link>/gw/conference/question/your-project-name-copy</link>
+        <guid isPermaLink="true">/gw/conference/question/your-project-name-copy</guid>
+        
+        
+        <category>conference</category>
+        
+        <category>question</category>
+        
+      </item>
     
       <item>
         <title>Blog: New Website Coming Soon...</title>
         <description>&lt;p&gt;A new company website is coming soon. Its 100% Jekyll and easy to maintain. Plus our Blog is available via RSS feed.&lt;/p&gt;
 </description>
         <pubDate>Wed, 06 Jan 2016 11:54:46 -0500</pubDate>
-        <link>/blog/website/new-website</link>
-        <guid isPermaLink="true">/blog/website/new-website</guid>
+        <link>/gw/blog/website/new-website</link>
+        <guid isPermaLink="true">/gw/blog/website/new-website</guid>
         
         
         <category>blog</category>
@@ -26,12 +41,12 @@
     
       <item>
         <title>Project: API in a Box</title>
-        <description>&lt;h4 id=&quot;api-in-a-box&quot;&gt;API in a Box&lt;/h4&gt;
-&lt;p&gt;Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry’s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.&lt;/p&gt;
+        <description>&lt;p&gt;####API in a Box
+Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry’s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.&lt;/p&gt;
 </description>
         <pubDate>Mon, 04 Jan 2016 00:00:00 -0500</pubDate>
-        <link>/project/api-in-a-box</link>
-        <guid isPermaLink="true">/project/api-in-a-box</guid>
+        <link>/gw/project/api-in-a-box</link>
+        <guid isPermaLink="true">/gw/project/api-in-a-box</guid>
         
         
         <category>project</category>
@@ -43,8 +58,8 @@
         <description>&lt;p&gt;Lorem…&lt;/p&gt;
 </description>
         <pubDate>Fri, 01 Jan 2016 11:54:46 -0500</pubDate>
-        <link>/blog/random/newyear</link>
-        <guid isPermaLink="true">/blog/random/newyear</guid>
+        <link>/gw/blog/random/newyear</link>
+        <guid isPermaLink="true">/gw/blog/random/newyear</guid>
         
         
         <category>blog</category>
@@ -59,8 +74,8 @@
 
 </description>
         <pubDate>Wed, 30 Dec 2015 11:54:46 -0500</pubDate>
-        <link>/question/your-project-name</link>
-        <guid isPermaLink="true">/question/your-project-name</guid>
+        <link>/gw/question/your-project-name</link>
+        <guid isPermaLink="true">/gw/question/your-project-name</guid>
         
         
         <category>question</category>
@@ -69,15 +84,15 @@
     
       <item>
         <title>Project: Export.gov Market Intelligence</title>
-        <description>&lt;h4 id=&quot;try-out-the-new-mi-app&quot;&gt;Try out the new MI app…&lt;/h4&gt;
-&lt;p&gt;Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry’s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.&lt;/p&gt;
+        <description>&lt;p&gt;####Try out the new MI app…
+Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry’s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.&lt;/p&gt;
 
-&lt;h4 id=&quot;our-proposal&quot;&gt;Our Proposal&lt;/h4&gt;
-&lt;p&gt;It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.&lt;/p&gt;
+&lt;p&gt;####Our Proposal
+It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.&lt;/p&gt;
 </description>
         <pubDate>Mon, 28 Dec 2015 00:00:00 -0500</pubDate>
-        <link>/project/market-intelligence</link>
-        <guid isPermaLink="true">/project/market-intelligence</guid>
+        <link>/gw/project/market-intelligence</link>
+        <guid isPermaLink="true">/gw/project/market-intelligence</guid>
         
         
         <category>project</category>
@@ -86,15 +101,15 @@
     
       <item>
         <title>Project: ITA Explorer Search App</title>
-        <description>&lt;h4 id=&quot;search-the-ita-apis-in-the-explorer-search-app&quot;&gt;Search the ITA APIs in the Explorer Search app…&lt;/h4&gt;
-&lt;p&gt;Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry’s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.&lt;/p&gt;
+        <description>&lt;p&gt;####Search the ITA APIs in the Explorer Search app…
+Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry’s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.&lt;/p&gt;
 
-&lt;h4 id=&quot;our-proposal&quot;&gt;Our Proposal&lt;/h4&gt;
-&lt;p&gt;It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.&lt;/p&gt;
+&lt;p&gt;####Our Proposal
+It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.&lt;/p&gt;
 </description>
         <pubDate>Sun, 27 Dec 2015 00:00:00 -0500</pubDate>
-        <link>/project/explorer</link>
-        <guid isPermaLink="true">/project/explorer</guid>
+        <link>/gw/project/explorer</link>
+        <guid isPermaLink="true">/gw/project/explorer</guid>
         
         
         <category>project</category>
@@ -103,15 +118,15 @@
     
       <item>
         <title>Project: ITA Developer Portal</title>
-        <description>&lt;h4 id=&quot;new-documentation&quot;&gt;New Documentation&lt;/h4&gt;
-&lt;p&gt;Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry’s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.&lt;/p&gt;
+        <description>&lt;p&gt;####New Documentation
+Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry’s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.&lt;/p&gt;
 
-&lt;h4 id=&quot;our-proposal&quot;&gt;Our Proposal&lt;/h4&gt;
-&lt;p&gt;It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.&lt;/p&gt;
+&lt;p&gt;####Our Proposal
+It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.&lt;/p&gt;
 </description>
         <pubDate>Fri, 25 Dec 2015 00:00:00 -0500</pubDate>
-        <link>/project/developer-portal</link>
-        <guid isPermaLink="true">/project/developer-portal</guid>
+        <link>/gw/project/developer-portal</link>
+        <guid isPermaLink="true">/gw/project/developer-portal</guid>
         
         
         <category>project</category>
@@ -124,8 +139,8 @@
 
 </description>
         <pubDate>Wed, 23 Dec 2015 11:54:46 -0500</pubDate>
-        <link>/blog/meetup/ita-hh</link>
-        <guid isPermaLink="true">/blog/meetup/ita-hh</guid>
+        <link>/gw/blog/meetup/ita-hh</link>
+        <guid isPermaLink="true">/gw/blog/meetup/ita-hh</guid>
         
         
         <category>blog</category>
@@ -136,32 +151,15 @@
     
       <item>
         <title>Project: ITA Data Services</title>
-        <description>&lt;h4 id=&quot;data-services&quot;&gt;Data Services…&lt;/h4&gt;
-&lt;p&gt;Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry’s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.&lt;/p&gt;
+        <description>&lt;p&gt;####Data Services…
+Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry’s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.&lt;/p&gt;
 
-&lt;h4 id=&quot;apis&quot;&gt;APIs…&lt;/h4&gt;
-&lt;p&gt;It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.&lt;/p&gt;
+&lt;p&gt;####APIs…
+It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.&lt;/p&gt;
 </description>
         <pubDate>Sun, 20 Dec 2015 00:00:00 -0500</pubDate>
-        <link>/project/webservices</link>
-        <guid isPermaLink="true">/project/webservices</guid>
-        
-        
-        <category>project</category>
-        
-      </item>
-    
-      <item>
-        <title>Project: SelectUSA.gov</title>
-        <description>&lt;h4 id=&quot;selectusa&quot;&gt;SelectUSA…&lt;/h4&gt;
-&lt;p&gt;Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry’s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.&lt;/p&gt;
-
-&lt;h4 id=&quot;our-proposal&quot;&gt;Our Proposal&lt;/h4&gt;
-&lt;p&gt;It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.&lt;/p&gt;
-</description>
-        <pubDate>Thu, 10 Dec 2015 00:00:00 -0500</pubDate>
-        <link>/project/selectusa</link>
-        <guid isPermaLink="true">/project/selectusa</guid>
+        <link>/gw/project/webservices</link>
+        <guid isPermaLink="true">/gw/project/webservices</guid>
         
         
         <category>project</category>
