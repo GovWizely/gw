@@ -49,12 +49,19 @@ tel: 703.995.9913
 # Members information. Shown on About page.
 members:
   - name: Erik Arnold
-    position: CEO
+    position: Title
     text: Lorem Ipsum is simply dummy text of the printing and typesetting industry.
     img: erik.jpeg
     social:
       - title: envelope #use for email address
         url: mailto:erik@govwizely.com
+  - name: Loren Siebert
+    position: Title
+    text: Lorem Ipsum is simply dummy text of the printing and typesetting industry.
+    img: loren.png
+    social:
+      - title: envelope #use for email address
+        url: mailto:info@govwizely.com
   - name: David Pranata
     position: Title
     text: Lorem Ipsum is simply dummy text of the printing and typesetting industry.

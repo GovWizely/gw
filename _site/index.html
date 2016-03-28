@@ -37,7 +37,7 @@
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
       </button>
-      <a class="navbar-brand" href="/gw/"><img class="img-responsive" src="/gw/assets/img/logo_header.png" alt="logo" ></a>
+      <a class="navbar-brand" href="/gw/"><img class="img-responsive" src="/gw/assets/img/logo.png" alt="logo" width="200"></a>
     </div>
     <div class="navbar-collapse collapse navbar-right">
       <ul class="nav navbar-nav">
@@ -54,29 +54,29 @@
 
 
 
-            <!--<!DOCTYPE html><html class=''>
+            <!DOCTYPE html><html class=''>
 <head><meta charset='UTF-8'><meta name="robots" content="noindex">
 
 <style class="cp-pen-styles">
 #container {
   background-color: #eee;
-  min-height: 100%;
+  max-height:400px;
   color: #fff;
-  background-image: url("https://images.unsplash.com/photo-1443890923422-7819ed4101c0?crop=entropy&fit=crop&fm=jpg&h=725&ixjsv=2.1.0&ixlib=rb-0.3.5&q=80&w=1100");
+  background-image: url("https://images.unsplash.com/photo-1444927714506-8492d94b4e3d?crop=entropy&dpr=2&fit=crop&fm=jpg&h=625&ixjsv=2.1.0&ixlib=rb-0.3.5&q=50&w=1250");
   background-size: cover;
-  background-position: center;
 }
 
 .main-title {
 	position: absolute;
 	margin: 0;
 	padding: 0;
-	color: #f9f1e9;
+	color: #fff;
 	text-align: center;
 	top: 50%;
 	left: 50%;
 	-webkit-transform: translate3d(-50%,-50%,0);
 	transform: translate3d(-50%,-50%,0);
+	font-weight:bold;
 }
 
 .main-title h1 {
@@ -90,18 +90,28 @@
 	font-size:20px;
 }
 
-@media only screen and (max-width : 768px) {
+@media only screen and (max-width : 767px) {
   #container {
   max-height:300px;
   }
-	.main-title h1 {
-		font-size: 1em;
+	.main-title {
+	top:40%;
+		font-size: 20px;
+	}
+}
+@media only screen and (max-width : 480px) {
+  #container {
+  max-height:200px;
+  }
+	.main-title {
+	top:30%;
+		font-size: 16px;
 	}
 }
 </style></head><body>
 
 
-<div id="container">
+<div id="container" >
   <canvas id="canvas"></canvas>
   <h1 class="main-title">ENABLING REAL-TIME BIG DATA EXPLORATION </br></br>
   <span class="thin">Elasticsearch · Hadoop · SaaS Integrations</span></h1>
@@ -442,10 +452,10 @@ function defaults(object, src) {
 </script>
 
 </body></html>
--->
 
-<!--Video Section-->
-<section class="content-section video-section">
+
+
+<!--<section class="content-section video-section">
   <div class="pattern-overlay">
   <a id="bgndVideo" class="player" data-property="{videoURL:'https://www.youtube.com/watch?v=rx3fE1UsMQk',containment:'.video-section', quality:'default', autoPlay:true, mute:true, opacity:1, startAt: 90, stopAt: 101,}">bg</a>
     <div class="container">
@@ -457,13 +467,11 @@ function defaults(object, src) {
       </div>
     </div>
   </div>
-</section>
-<!--Video Section Ends Here-->
+</section>-->
 
 
 
-  </br></br>
-<div id="service">
+  <div id="service" class="hidden-sm hidden-xs" style="padding-top:50px;">
     <div class="container">
         <div class="row centered">
             <div class="col-md-4">
@@ -492,7 +500,7 @@ function defaults(object, src) {
 
 
 
-
+<div class="hidden-sm hidden-xs">
 <div id="portfoliowrap">
     <div class="portfolio-centered">
         <h3 class="home">Latest Projects</h3>
@@ -516,7 +524,7 @@ function defaults(object, src) {
                     <img src="/gw/assets/img/project/market-intelligence.png" alt="">
                         <div class="he-view">
                             <div class="bg a0" data-animate="fadeIn">
-                                <h3 class="a1" data-animate="fadeInDown">Export.gov Market Intelligence</h3>
+                                <h3 class="a1" data-animate="fadeInDown">Market Intelligence Search</h3>
                                 <!--<a data-rel="prettyPhoto" href="/gw/assets/img/project/market-intelligence.png" class="dmbutton a2" data-animate="fadeInUp"><i class="fa fa-search"></i></a>-->
                                 <a href="/gw/project/market-intelligence" class="dmbutton a2" data-animate="fadeInUp"><i class="fa fa-link"></i></a>
                             </div><!-- he bg -->
@@ -567,11 +575,12 @@ function defaults(object, src) {
     </div><!-- portfolio container -->
 </div><!--/Portfoliowrap -->
 
+</div>
 
 <div class="container mtb">
     <div class="row">
 
-        <div class="col-lg-4">
+        <div class="col-lg-4 hidden-sm hidden-xs">
         <h3 class="home">Social</h3>
             <a class="twitter-timeline" width="300" href="https://twitter.com/GovWizely" data-widget-id="684062145521258496" data-chrome="noheader transparent noborders nofooter">Tweets by @GovWizely</a> <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
         </div>
@@ -596,8 +605,8 @@ function defaults(object, src) {
             <h3 class="home">Blog</h3>
             <div class="hline"></div>
             
-                <p><a href="/gw/blog/website/new-website">New Website Coming Soon...</a></br>
-                <csmall>Jan 6, 2016 | By: Admin</csmall></p>
+                <p><a href="/gw/blog/elasticsearch/es-upgrade">Webservices Upgraded to ES2.2</a></br>
+                <csmall>Mar 28, 2016 | By: Admin</csmall></p>
             
                 <p><a href="/gw/blog/random/newyear">Happy New Year!</a></br>
                 <csmall>Jan 1, 2016 | By: Admin</csmall></p>
@@ -612,6 +621,7 @@ function defaults(object, src) {
 </div><! --/container -->
 
 
+<div class="hidden-sm hidden-xs">
 <div id="zwrap">
     <div class="container">
         <div class="row centered">
@@ -636,7 +646,7 @@ function defaults(object, src) {
     </div><! --/container -->
 </div><! --/cwrap -->
 
-
+</div>
 
         <div id="footerwrap">
     <div class="container">
