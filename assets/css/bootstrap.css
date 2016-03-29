@@ -3695,7 +3695,6 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
 .container-fluid > .navbar-collapse {
   margin-right: -15px;
   margin-left: -15px;
-  padding-bottom:30px;
 }
 @media (min-width: 768px) {
   .container > .navbar-header,
@@ -3974,18 +3973,24 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
   background-color: transparent;
 }
 .navbar-default .navbar-toggle {
-  border-color: #ddd;
+top:10px;
 }
 .navbar-default .navbar-toggle:hover,
 .navbar-default .navbar-toggle:focus {
-  background-color: #ddd;
+
 }
 .navbar-default .navbar-toggle .icon-bar {
-  background-color: #888;
+  background-color: #2e4450;
+}
+.navbar-default .navbar-toggle:hover .icon-bar {
+    background-color: #2b8275;
+}
+.navbar-default .navbar-toggle:focus .icon-bar {
+    background-color: #2b8275;
 }
 .navbar-default .navbar-collapse,
 .navbar-default .navbar-form {
-  border-color: #e7e7e7;
+
 }
 .navbar-default .navbar-nav > .open > a,
 .navbar-default .navbar-nav > .open > a:hover,
