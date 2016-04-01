@@ -37,15 +37,15 @@
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
       </button>
-      <a class="navbar-brand" href="/gw/"><img class="img-responsive" src="/gw/assets/img/logo.png" alt="logo" width="200"></a>
+      <a class="navbar-brand" href="/gw/"><img class="img-responsive" src="/gw/assets/img/logo.png" alt="logo" width="185"></a>
     </div>
     <div class="navbar-collapse collapse navbar-right">
       <ul class="nav navbar-nav">
         <li class="active"><a href="/gw/">Home</a></li>
-        <li ><a href="/gw/services/">Services</a></li>
+        <!--<li ><a href="/gw/services/">Services</a></li>
         <li ><a href="/gw/open/">Open</a></li>
         <li ><a href="/gw/blog/">Blog</a></li>
-        <li ><a href="/gw/about/">About</a></li>
+        <li ><a href="/gw/about/">About</a></li>-->
         <li ><a href="/gw/contact/">Contact</a></li>
       </ul>
     </div><!--/.nav-collapse -->
@@ -72,11 +72,18 @@
 	padding: 0;
 	color: #fff;
 	text-align: center;
-	top: 40%;
+	top: 35%;
 	left: 50%;
 	-webkit-transform: translate3d(-50%,-50%,0);
 	transform: translate3d(-50%,-50%,0);
+padding-top:20px;
+padding-bottom:20px;
+	border-top: solid #fff;
+	border-bottom: solid #fff;
+	border-width: 1px;
 	font-weight:bold;
+	font-size: 30px;
+	width:400px;
 }
 
 .main-title h1 {
@@ -92,11 +99,12 @@
 
 @media only screen and (max-width : 767px) {
   #container {
-  max-height:300px;
+  max-height:200px;
   }
 	.main-title {
-	top:40%;
+	top:30%;
 		font-size: 20px;
+		width:300px;
 	}
 }
 @media only screen and (max-width : 480px) {
@@ -104,8 +112,9 @@
   max-height:200px;
   }
 	.main-title {
-	top:30%;
+	top:25%;
 		font-size: 16px;
+		width:250px;
 	}
 }
 </style></head><body>
@@ -113,8 +122,8 @@
 
 <div id="container" >
   <canvas id="canvas"></canvas>
-  <h1 class="main-title">ENABLING REAL-TIME BIG DATA EXPLORATION </br></br>
-  <span class="thin">Elasticsearch · Hadoop · SaaS Integrations</span></h1>
+  <h1 class="main-title">Information FREEDOM…
+  </h1>
 </div>
 <script src='http://assets.codepen.io/assets/common/stopExecutionOnTimeout.js?t=1'></script><script src='http://cdnjs.cloudflare.com/ajax/libs/gsap/latest/TweenMax.min.js'></script>
 <script>
@@ -471,32 +480,52 @@ function defaults(object, src) {
 
 
 
-  <div id="service" class="hidden-sm hidden-xs" style="padding-top:50px;">
+  <div id="service" style="padding-top:50px;padding-bottom:50px;">
     <div class="container">
         <div class="row centered">
             <div class="col-md-4">
 
                 <h4>Open</h4>
-                <p class="text-muted">GovWizely focuses in the areas of data, search, and analytics.</p>
-                <p><br/><a href="/gw/open/" class="btn btn-theme-home">See More</a></p>
+                <p class="text-muted" style="font-weight:300;">Information from proprietary formats.</p>
+                <p><a href="/gw/open/" class="btn btn-theme-home">More</a></p>
             </div>
 
             <div class="col-md-4">
 
             <h4>Combine</h4>
-                <p class="text-muted">Our Process: Planning, Product Development, Product Launch, and Post-Launch Support.</p>
-                <p><br/><a href="/gw/services/" class="btn btn-theme-home">Learn More</a></p>
+                <p class="text-muted" style="font-weight:300;">Disparate information together.</p>
+                <p><a href="/gw/combine/" class="btn btn-theme-home">More</a></p>
             </div>
 
             <div class="col-md-4">
 
-                <h4>Quality</h4>
-                <p class="text-muted">Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
-                <p><br/><a href="#" class="btn btn-theme-home">More Info</a></p>
+                <h4>Expose</h4>
+                <p class="text-muted" style="font-weight:300;">Information in machine readable format.</p>
+                <p><a href="/gw/expose/" class="btn btn-theme-home">More</a></p>
             </div>
         </div>
     </div><! --/container -->
 </div><! --/service -->
+
+ <div class="centered">
+ <h3 class="home">Then You Can…</h3>
+ </div>
+
+<div class="container">
+<div class="row">
+        <a href="/gw/visualize/"><div class="col-md-4" style="background-color:#f7f7f7;background-image: url('assets/img/kibana3.png');background-repeat:no-repeat;border-color:#fff;border-style: solid;border-width: 10px;min-height:140px;"><div class="col-lg-8 col-lg-offset-2"></br><p style="color:#fff;">Visually interact with information in real time</p></br></div></div></a>
+        <a href="/gw/find/"><div class="col-md-4" style="background-color:#f7f7f7;background-image: url('assets/img/explorer.png');background-repeat:no-repeat;border-color:#fff;border-style: solid;border-width: 10px;min-height:140px;"><div class="col-lg-8 col-lg-offset-2"></br><p style="color:#1d7296;">Search for information with powerful front end tools</p></br></div></div></a>
+        <a href="/gw/navigate/"><div class="col-md-4" style="background-color:#f6f9fa;background-image: url('assets/img/facets.png');background-repeat:no-repeat;border-color:#fff;border-style: solid;border-width: 10px;min-height:140px;"><div class="col-lg-8 col-lg-offset-2"></br><p style="color:#1d7296;">Navigate your content with advanced faceting</p></br></div></div></a>
+      </div>
+</div>
+
+<div class="jumbotron" style="background-color:#f7f7f7;margin-top:50px;margin-bottom:0;padding-top:40px;padding-bottom:40px;">
+      <div class="container">
+        <h1 style="font-size: 43px;">Our Company</h1>
+        <p>Products: <a href="http://75.101.146.141">api-in-a-box.com</a>, <a href="/gw/hosted-white-label-search/">White Label Hosted Search</a>.</p>
+        <p>Services: Custom information solutions based based on your needs.</p>
+      </div>
+    </div>
 
 
 
@@ -582,7 +611,7 @@ function defaults(object, src) {
 
         <div class="col-lg-4 hidden-sm hidden-xs">
         <h3 class="home">Social</h3>
-            <a class="twitter-timeline" width="300" href="https://twitter.com/GovWizely" data-widget-id="684062145521258496" data-chrome="noheader transparent noborders nofooter">Tweets by @GovWizely</a> <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+            <a class="twitter-timeline" width="300" href="https://twitter.com/elastic" data-widget-id="715757921662078977" data-chrome="noheader transparent noborders nofooter">Tweets by @GovWizely</a> <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
         </div>
 
         <div class="col-lg-4">
