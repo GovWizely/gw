@@ -166,7 +166,7 @@ margin: 0px auto 15px;
 }
 
 .navbar-default {
-	background-color: #fff;
+	background-color: transparent;
 	border-color: transparent;
 }
 
@@ -397,7 +397,6 @@ margin: 0px auto 15px;
 }
 
 #zwrap {
-	background: #f7f7f7;
 	margin-top: 0px;
 	padding-top: 40px;
 	padding-bottom: 40px;
@@ -419,7 +418,6 @@ margin: 0px auto 15px;
 #footerwrap {
 	padding-top: 30px;
 	padding-bottom: 30px;
-	border-top: 1px solid #e0e0e0;
 	background: #FFFFF;
 }
 
@@ -573,3 +571,19 @@ a.anchor{
     top: -80px;
     visibility: hidden;
 }
+
+
+#logo {
+width:185px;
+}
+@media only screen and (max-width : 767px) {
+#logo {
+width:150px;
+}
+}
+@media only screen and (max-width : 480px) {
+#logo {
+width:145px;
+}
+}
+
