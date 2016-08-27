@@ -5,9 +5,23 @@
     <description>GovWizely helps government agencies build applications with their data. We bring modern technologies to government projects and work with our clientele to fight bureaucratic roadblocks.</description>
     <link>/gw/</link>
     <atom:link href="/gw/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Fri, 26 Aug 2016 16:52:14 -0400</pubDate>
-    <lastBuildDate>Fri, 26 Aug 2016 16:52:14 -0400</lastBuildDate>
+    <pubDate>Sat, 27 Aug 2016 16:12:28 -0400</pubDate>
+    <lastBuildDate>Sat, 27 Aug 2016 16:12:28 -0400</lastBuildDate>
     <generator>Jekyll v3.2.1</generator>
+    
+      <item>
+        <title>Project: I94 Search</title>
+        <description>&lt;h4 id=&quot;i94-search&quot;&gt;I94 Search&lt;/h4&gt;
+&lt;p&gt;Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry’s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.&lt;/p&gt;
+</description>
+        <pubDate>Sat, 27 Aug 2016 00:00:00 -0400</pubDate>
+        <link>/gw/project/i94-search</link>
+        <guid isPermaLink="true">/gw/project/i94-search</guid>
+        
+        
+        <category>project</category>
+        
+      </item>
     
       <item>
         <title>Blog: Webservices Upgraded to ES2.2</title>
@@ -37,20 +51,6 @@
         <category>conference</category>
         
         <category>question</category>
-        
-      </item>
-    
-      <item>
-        <title>Project: API in a Box</title>
-        <description>&lt;h4 id=&quot;api-in-a-box&quot;&gt;API in a Box&lt;/h4&gt;
-&lt;p&gt;Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry’s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.&lt;/p&gt;
-</description>
-        <pubDate>Mon, 04 Jan 2016 00:00:00 -0500</pubDate>
-        <link>/gw/project/api-in-a-box</link>
-        <guid isPermaLink="true">/gw/project/api-in-a-box</guid>
-        
-        
-        <category>project</category>
         
       </item>
     
@@ -85,11 +85,8 @@
     
       <item>
         <title>Project: Market Intelligence Search</title>
-        <description>&lt;h4 id=&quot;try-out-the-new-mi-app&quot;&gt;Try out the new MI app…&lt;/h4&gt;
+        <description>&lt;h4 id=&quot;market-intelligence-search&quot;&gt;Market Intelligence Search&lt;/h4&gt;
 &lt;p&gt;Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry’s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.&lt;/p&gt;
-
-&lt;h4 id=&quot;our-proposal&quot;&gt;Our Proposal&lt;/h4&gt;
-&lt;p&gt;It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.&lt;/p&gt;
 </description>
         <pubDate>Mon, 28 Dec 2015 00:00:00 -0500</pubDate>
         <link>/gw/project/market-intelligence</link>
@@ -102,11 +99,9 @@
     
       <item>
         <title>Project: ITA Explorer Search App</title>
-        <description>&lt;h4 id=&quot;search-the-ita-apis-in-the-explorer-search-app&quot;&gt;Search the ITA APIs in the Explorer Search app…&lt;/h4&gt;
+        <description>&lt;h4 id=&quot;ita-explorer-search-app&quot;&gt;ITA Explorer Search App&lt;/h4&gt;
 &lt;p&gt;Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry’s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.&lt;/p&gt;
 
-&lt;h4 id=&quot;our-proposal&quot;&gt;Our Proposal&lt;/h4&gt;
-&lt;p&gt;It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.&lt;/p&gt;
 </description>
         <pubDate>Sun, 27 Dec 2015 00:00:00 -0500</pubDate>
         <link>/gw/project/explorer</link>
@@ -119,11 +114,8 @@
     
       <item>
         <title>Project: ITA Developer Portal</title>
-        <description>&lt;h4 id=&quot;new-documentation&quot;&gt;New Documentation&lt;/h4&gt;
+        <description>&lt;h4 id=&quot;ita-developer-portal&quot;&gt;ITA Developer Portal&lt;/h4&gt;
 &lt;p&gt;Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry’s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.&lt;/p&gt;
-
-&lt;h4 id=&quot;our-proposal&quot;&gt;Our Proposal&lt;/h4&gt;
-&lt;p&gt;It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.&lt;/p&gt;
 </description>
         <pubDate>Fri, 25 Dec 2015 00:00:00 -0500</pubDate>
         <link>/gw/project/developer-portal</link>
@@ -154,9 +146,6 @@
         <title>Project: ITA Data Services</title>
         <description>&lt;h4 id=&quot;data-services&quot;&gt;Data Services…&lt;/h4&gt;
 &lt;p&gt;Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry’s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.&lt;/p&gt;
-
-&lt;h4 id=&quot;apis&quot;&gt;APIs…&lt;/h4&gt;
-&lt;p&gt;It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.&lt;/p&gt;
 </description>
         <pubDate>Sun, 20 Dec 2015 00:00:00 -0500</pubDate>
         <link>/gw/project/webservices</link>
