@@ -10,6 +10,8 @@
 ################################################################# */
 @import url(http://fonts.googleapis.com/css?family=Raleway:400,700,900);
 @import url(https://fonts.googleapis.com/css?family=Open+Sans:300,400,700);
+@import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
+@import 'https://fonts.googleapis.com/css?family=Titillium+Web';
 @import url("prettyPhoto.css") screen;
 @import url("hoverex-all.css") screen;
 
@@ -31,7 +33,7 @@ body {
 	}
 
 h1, h2, h3, h5, h6 {
-	font-family: 'Raleway', sans-serif;
+	font-family: 'Titillium Web', sans-serif;
 	font-weight: 400;
 	margin: 8px 0;
 	color:#2b8275;
@@ -185,6 +187,7 @@ margin: 0px auto 15px;
   background-color: #fff;
   border-color: #1d7296;
   margin: 4px;
+  border-radius: 3px;
 }
 .btn-theme-home:hover,
 .btn-theme-home:focus,
@@ -194,6 +197,27 @@ margin: 0px auto 15px;
   color: #fff;
   background-color: #2182ab;
   border-color: #2182ab;
+}
+
+.btn-theme-intro {
+  color: #fff;
+  font-size:18px;
+  background-color: #33998a;
+  border-color: #33998a;
+  margin: 4px;
+  border-radius: 20px;
+  padding: 10px 40px;
+}
+.btn-theme-intro:hover,
+.btn-theme-intro:focus,
+.btn-theme-intro:active,
+.btn-theme-intro.active,
+.open .dropdown-toggle.btn-theme {
+  color: #fff;
+  background-color: #39ac9b;
+  border-color: #39ac9b;
+      -webkit-transition-duration: 0.2s; /* Safari */
+    transition-duration: 0.2s;
 }
 
 .btn-theme {
