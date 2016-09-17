@@ -95,12 +95,16 @@ members:
 clients:
   - name: GSA
     img: gsa.png
+    link: http://www.gsa.gov/
   - name: ITA
     img: ita.png
+    link: http://trade.gov/
   - name: FTC
     img: ftc.png
+    link: https://www.ftc.gov/
   - name: SUSA
     img: susa.png
+    link: https://www.selectusa.gov
 
 # Short text about your company. Shown in footer on every page and also separately on Home and Contact page.
 about: "GovWizely helps government agencies build applications with their data. We bring modern technologies to government projects and work with our clientele to fight bureaucratic roadblocks."
