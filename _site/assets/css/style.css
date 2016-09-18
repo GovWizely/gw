@@ -12,6 +12,7 @@
 @import url(https://fonts.googleapis.com/css?family=Open+Sans:300,400,700);
 @import 'https://fonts.googleapis.com/css?family=Titillium+Web:200,300,400';
 @import 'https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,600,700,900';
+@import 'https://fonts.googleapis.com/css?family=Catamaran:400,800';
 @import url("prettyPhoto.css") screen;
 @import url("hoverex-all.css") screen;
 
@@ -308,16 +309,27 @@ margin: 0px auto 15px;
 }
 
 #headerwrap h1 {
-	color: white;
+	color: #1d7296;
 	margin-bottom: 25px;
-
+	font-weight: 800;
+font-family: 'Catamaran', sans-serif;
 }
 
 #headerwrap h4 {
-color:#9fdfd6;
-
+color:#1d7296;
 }
 
+@media (max-width:767px) {
+#headerwrap h1 {
+color:#fff;
+font-size:26px;
+margin-top:35px;
+}
+#headerwrap h4 {
+color:#fff;
+font-size:14px;
+}
+}
 
 #headerwrap .img-responsive {
 	margin: 0 auto;
@@ -337,7 +349,7 @@ color:#9fdfd6;
 	padding: 15px;
 }
 #service h4 {
-color:#2e4450;font-size:18px;margin-bottom:0;font-weight:600;
+color:#1d7296;font-size:18px;margin-bottom:0;font-weight:600;
 }
 #service p {
 font-weight:300;
