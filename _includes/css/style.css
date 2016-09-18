@@ -106,7 +106,7 @@ margin: 0 0 15px;
 font-size: 24px;
 line-height: 1.1em;
 font-weight:400;
-color:#2b8275;
+color:#39ac9b;
 }
 
 .video-section .pattern-overlay {
@@ -270,8 +270,8 @@ margin: 0px auto 15px;
 }
 
 .mtb {
-	margin-top: 80px;
-	margin-bottom: 30px;
+	margin-top: 50px;
+	margin-bottom: 50px;
 }
 
 .mb {
@@ -300,7 +300,6 @@ margin: 0px auto 15px;
 	padding-top: 75px;
 	padding-bottom: 50px;
 	text-align: center;
-	border-top: 1px solid #cedce3;
 }
 
 #headerwrap h3, h5 {
@@ -311,7 +310,14 @@ margin: 0px auto 15px;
 #headerwrap h1 {
 	color: white;
 	margin-bottom: 25px;
+
 }
+
+#headerwrap h4 {
+color:#9fdfd6;
+
+}
+
 
 #headerwrap .img-responsive {
 	margin: 0 auto;
@@ -321,12 +327,41 @@ margin: 0px auto 15px;
 #service {
 	margin-top: 0px;
 	margin-bottom: 0px;
+	background:#dfe8ec;
+	padding-top:50px;
+	padding-bottom:50px;
 }
-
 #service i {
 	color: {{ site.colors.primary }};
 	font-size: 60px;
 	padding: 15px;
+}
+#service h4 {
+color:#2e4450;font-size:18px;margin-bottom:0;font-weight:600;
+}
+#service p {
+font-weight:300;
+margin-top:5px;
+}
+#service img {
+width:60px;
+}
+
+#jumbo1 {
+background-color:#fff;margin-top:0px;margin-bottom:0;padding-top:25px;padding-bottom:100px;
+}
+#jumbo1 h2 {
+	color:#2e4450;font-size:36px;font-weight:700;
+}
+#jumbo1 h4 {
+	color:#2e4450;font-size:24px;margin-bottom:0;font-weight:400;
+}
+#jumbo1 p {
+	font-size:18px;line-height:1.5em;
+}
+
+#jumbo2 {
+	background-color:#eff3f6;margin-bottom:0;padding-top:50px;padding-bottom:50px;
 }
 
 /* Portfolio Wrap */
