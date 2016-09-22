@@ -140,6 +140,10 @@ row4_col2_description: Lorem ipsum dolor sit amet molestie eros cubilia condimen
 row4_col3: Support
 row4_col3_description: Lorem ipsum dolor sit amet molestie eros cubilia condimentum lacinia ligula habitasse et.
 
+# Products page
+products_img: https://images.unsplash.com/photo-1452457750107-cd084dce177d
+products_title: content title
+products_description: API-in-a-box...
 
 # Browse page
 browse_img: https://images.unsplash.com/photo-1452457750107-cd084dce177d
