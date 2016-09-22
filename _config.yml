@@ -114,31 +114,31 @@ row1_button: Get Started
 
 # Home page row2
 row2_col1: Visualize
-row2_col1_description: Lorem ipsum dolor sit amet molestie eros cubilia condimentum lacinia ligula habitasse et.
+row2_col1_description: Intuitive dashboards for real-time analytics with sharing capabilities. 
 row2_col2: Search
-row2_col2_description: Lorem ipsum dolor sit amet molestie eros cubilia condimentum lacinia ligula habitasse et.
+row2_col2_description: Allow your users to search across all your content and data -- security and in real time.
 row2_col3: Browse
-row2_col3_description: Lorem ipsum dolor sit amet molestie eros cubilia condimentum lacinia ligula habitasse et.
+row2_col3_description: Advanced faceting capabilities allows your users to manipulate data with simplicity.
 
 # Home page jumbo1
 jumbo1_title: How It Works
-jumbo1_step1: 1. Open
-jumbo1_step1_description: Facilisis viverra ligula amet odio elit hymenaeos diam nullam a mattis suscipit justo viverra quis aliquam.
-jumbo1_step2: 2. Combine
-jumbo1_step2_description: At dignissim enim nec commodo. Adipiscing porttitor consequat quis vitae massa euismod venenatis dictum.
-jumbo1_step3: 3. Expose
-jumbo1_step3_description: Consectetuer eleifend vitae purus elit odio rhoncus pulvinar enim at phasellus sit dignissim senectus velit vivamus.
+jumbo1_step1: Open
+jumbo1_step1_description: Your organizations trapped information from proprietary formats into standards.
+jumbo1_step2: Combine
+jumbo1_step2_description: Internal siloed information to fuse information together for search and analysis.
+jumbo1_step3: Share
+jumbo1_step3_description: Your freed data internally, with your partners, or with the entire world.
 
 # Home page jumbo2
 jumbo2_p1: Custom information solutions based on your needs.
 
 # Home page row4
 row4_col1: Planning
-row4_col1_description: Lorem ipsum dolor sit amet molestie eros cubilia condimentum lacinia ligula habitasse et.
+row4_col1_description: We'll find hidden data and map a path for to expose the content.
 row4_col2: Development
-row4_col2_description: Lorem ipsum dolor sit amet molestie eros cubilia condimentum lacinia ligula habitasse et.
+row4_col2_description: We will develop / customize our tools to meet your search and open data needs.
 row4_col3: Support
-row4_col3_description: Lorem ipsum dolor sit amet molestie eros cubilia condimentum lacinia ligula habitasse et.
+row4_col3_description: We offer all levels of support needed for your orgnaization.
 
 # Products page
 products_img: https://images.unsplash.com/photo-1452457750107-cd084dce177d
