@@ -17,7 +17,17 @@
         <li {% if page.title == "Open" %}class="active"{% endif %}><a href="{{"/open/" | prepend: site.baseurl }}">Open</a></li>
         <li {% if page.title == "Blog" %}class="active"{% endif %}><a href="{{"/blog/" | prepend: site.baseurl }}">Blog</a></li>
         <li {% if page.title == "Our Company" %}class="active"{% endif %}><a href="{{"/about/" | prepend: site.baseurl }}">About</a></li>-->
-        <li {% if page.title == "Products" %}class="active"{% endif %}><a href="{{"/products/" | prepend: site.baseurl }}">Products</a></li>
+        <li {% if page.title == "Products" %}class="active"{% endif %} class="dropdown">
+                <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Products <span class="caret"></span></a>
+                <ul class="dropdown-menu">
+                  <li><a href="#">API-in-Box</a></li>
+                  <li><a href="#">Another action</a></li>
+                  <li><a href="#">Something else here</a></li>
+                  <li><a href="#">Action</a></li>
+                  <li><a href="#">Another action</a></li>
+                  <li><a href="#">Something else here</a></li>
+                </ul>
+              </li>
         <li {% if page.title == "Contact" %}class="active"{% endif %}><a href="{{"/contact/" | prepend: site.baseurl }}">Contact</a></li>
       </ul>
     </div><!--/.nav-collapse -->
