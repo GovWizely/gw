@@ -132,28 +132,43 @@ jumbo1_step3_description: Consectetuer eleifend vitae purus elit odio rhoncus pu
 # Home page jumbo2
 jumbo2_p1: Custom information solutions based on your needs.
 
+# Home page row4
+row4_col1: Planning
+row4_col1_description: Lorem ipsum dolor sit amet molestie eros cubilia condimentum lacinia ligula habitasse et.
+row4_col2: Development
+row4_col2_description: Lorem ipsum dolor sit amet molestie eros cubilia condimentum lacinia ligula habitasse et.
+row4_col3: Support
+row4_col3_description: Lorem ipsum dolor sit amet molestie eros cubilia condimentum lacinia ligula habitasse et.
+
+
 # Browse page
 browse_img: https://images.unsplash.com/photo-1452457750107-cd084dce177d
+browse_title: content title
 browse_description: Leverage your taxonomy to make complex filtering easy
 
 # Combine page
 combine_img: https://images.unsplash.com/photo-1432821596592-e2c18b78144f
+combine_title: content title
 combine_description: Have a taxonomy or leverage industry standard terms? </br></br> Instantly combine them
 
 # Expose page
 expose_img: https://images.unsplash.com/photo-1453060113865-968cea1ad53a
+expose_title: content title
 expose_description: Expose the content in machine readable format for public or private needs
 
 # Open page
 open_img: https://images.unsplash.com/photo-1468495244123-6c6c332eeece
+open_title: content title
 open_description: Empower non-programmers to import informant important to their task. </br></br> In any format. </br></br> From a file or URL.
 
 # Search page
 search_img: https://images.unsplash.com/photo-1468495244123-6c6c332eeece
+search_title: content title
 search_description: Search text lorem ipsum...
 
 # Visualize page
 visualize_img: https://images.unsplash.com/photo-1431605695381-f4a9c3cdd150
+visualize_title: content title
 visualize_description: View the information in real time and dig digger with some clicks
 
 
