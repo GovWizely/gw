@@ -339,7 +339,7 @@ font-size:14px;
 #service {
 	margin-top: 0px;
 	margin-bottom: 0px;
-	background:#ebeef0;
+	background:#fff;
 	padding-top:50px;
 	padding-bottom:50px;
 }
@@ -360,7 +360,7 @@ width:60px;
 }
 
 #jumbo1 {
-background-color:#fff;margin-top:0px;margin-bottom:0;padding-top:25px;padding-bottom:100px;
+background-color:#fff;margin-top:0px;margin-bottom:0;padding-top:0px;padding-bottom:100px;
 }
 #jumbo1 h2 {
 	color:#2e4450;font-size:36px;font-weight:700;
@@ -470,9 +470,9 @@ background-color:#fff;margin-top:0px;margin-bottom:0;padding-top:25px;padding-bo
 
 #zwrap {
 	background: #fff;
-	margin-top: 0px;
-	padding-top: 35px;
-	padding-bottom: 35px;
+	margin-top: -20px;
+	padding-top: 0px;
+	padding-bottom: 50px;
 }
 
 hr.style-two {
